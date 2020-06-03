@@ -1,0 +1,1 @@
+Discord.Client().js.user.setActivity(“!command”, { type: “STREAMING” });
